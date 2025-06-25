@@ -113,3 +113,4 @@ This project is open source under the [MIT License](LICENSE).
 - Kaggle for dataset and competition platform  
 - TensorFlow & TensorFlow Hub for pre-trained model architecture  
 - The open-source community for tutorials and inspiration
+- The Zero To Mastery Academy for their teachings and mentorship
